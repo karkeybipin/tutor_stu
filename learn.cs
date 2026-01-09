@@ -1,3 +1,5 @@
+// Day 1: Learning C# Basics (Best of luck students)
+
 using System;
 
 class Person
@@ -41,6 +43,8 @@ class Program
 
         Console.WriteLine("Hello " + userName + ", you are " + userAge + " years old.");
 
+// Day 2: Learning C# Basics (Best of luck students)
+// loop and conditionals
         if (userAge >= 18)
         {
             Console.WriteLine("You are eligible to vote.");
